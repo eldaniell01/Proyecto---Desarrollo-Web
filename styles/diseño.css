@@ -1,0 +1,48 @@
+body{
+    background: #049DD9;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    margin-top: 7%;
+    width: 350px;
+    height: 500px;
+    background: #0F5FA6;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.datos{
+    width: 80%;
+   
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    justify-items: center;
+}
+.registro{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+input{
+    margin: 10px;
+    height: 30px;
+    text-align: center;
+}
+
+label{
+    font-family: "Corbel Light";
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+.reg{
+    height: 35;
+    width: 120px;
+}
